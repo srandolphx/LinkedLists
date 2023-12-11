@@ -1,0 +1,28 @@
+C:\Courses\PG2_Girod_V3\Labs\CURRENT\Campus\Lab 4 LinkedLists\PG02_LinkedLists\PG02_LinkedLists\bin\Debug\PG02_LinkedLists.dll.config
+C:\Courses\PG2_Girod_V3\Labs\CURRENT\Campus\Lab 4 LinkedLists\PG02_LinkedLists\PG02_LinkedLists\bin\Debug\PG02_LinkedLists.dll
+C:\Courses\PG2_Girod_V3\Labs\CURRENT\Campus\Lab 4 LinkedLists\PG02_LinkedLists\PG02_LinkedLists\bin\Debug\PG02_LinkedLists.pdb
+C:\Courses\PG2_Girod_V3\Labs\CURRENT\Campus\Lab 4 LinkedLists\PG02_LinkedLists\PG02_LinkedLists\obj\Debug\PG02_LinkedLists.csprojAssemblyReference.cache
+C:\Courses\PG2_Girod_V3\Labs\CURRENT\Campus\Lab 4 LinkedLists\PG02_LinkedLists\PG02_LinkedLists\obj\Debug\PG02_LinkedLists.csproj.CoreCompileInputs.cache
+C:\Courses\PG2_Girod_V3\Labs\CURRENT\Campus\Lab 4 LinkedLists\PG02_LinkedLists\PG02_LinkedLists\obj\Debug\PG02_LinkedLists.dll
+C:\Courses\PG2_Girod_V3\Labs\CURRENT\Campus\Lab 4 LinkedLists\PG02_LinkedLists\PG02_LinkedLists\obj\Debug\PG02_LinkedLists.pdb
+C:\C#Projects\Full Sail Class Work\C# projects\PG2\PG02_LinkedLists\PG02_LinkedLists\bin\Debug\PG02_LinkedLists.dll.config
+C:\C#Projects\Full Sail Class Work\C# projects\PG2\PG02_LinkedLists\PG02_LinkedLists\bin\Debug\PG02_LinkedLists.dll
+C:\C#Projects\Full Sail Class Work\C# projects\PG2\PG02_LinkedLists\PG02_LinkedLists\bin\Debug\PG02_LinkedLists.pdb
+C:\C#Projects\Full Sail Class Work\C# projects\PG2\PG02_LinkedLists\PG02_LinkedLists\bin\Debug\Elasticsearch.Net.dll
+C:\C#Projects\Full Sail Class Work\C# projects\PG2\PG02_LinkedLists\PG02_LinkedLists\bin\Debug\System.Buffers.dll
+C:\C#Projects\Full Sail Class Work\C# projects\PG2\PG02_LinkedLists\PG02_LinkedLists\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\C#Projects\Full Sail Class Work\C# projects\PG2\PG02_LinkedLists\PG02_LinkedLists\bin\Debug\System.Memory.dll
+C:\C#Projects\Full Sail Class Work\C# projects\PG2\PG02_LinkedLists\PG02_LinkedLists\bin\Debug\System.Numerics.Vectors.dll
+C:\C#Projects\Full Sail Class Work\C# projects\PG2\PG02_LinkedLists\PG02_LinkedLists\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\C#Projects\Full Sail Class Work\C# projects\PG2\PG02_LinkedLists\PG02_LinkedLists\bin\Debug\Elasticsearch.Net.pdb
+C:\C#Projects\Full Sail Class Work\C# projects\PG2\PG02_LinkedLists\PG02_LinkedLists\bin\Debug\Elasticsearch.Net.xml
+C:\C#Projects\Full Sail Class Work\C# projects\PG2\PG02_LinkedLists\PG02_LinkedLists\bin\Debug\System.Buffers.xml
+C:\C#Projects\Full Sail Class Work\C# projects\PG2\PG02_LinkedLists\PG02_LinkedLists\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\C#Projects\Full Sail Class Work\C# projects\PG2\PG02_LinkedLists\PG02_LinkedLists\bin\Debug\System.Memory.xml
+C:\C#Projects\Full Sail Class Work\C# projects\PG2\PG02_LinkedLists\PG02_LinkedLists\bin\Debug\System.Numerics.Vectors.xml
+C:\C#Projects\Full Sail Class Work\C# projects\PG2\PG02_LinkedLists\PG02_LinkedLists\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\C#Projects\Full Sail Class Work\C# projects\PG2\PG02_LinkedLists\PG02_LinkedLists\obj\Debug\PG02_LinkedLists.csproj.CoreCompileInputs.cache
+C:\C#Projects\Full Sail Class Work\C# projects\PG2\PG02_LinkedLists\PG02_LinkedLists\obj\Debug\PG02_LinkedLists.csproj.CopyComplete
+C:\C#Projects\Full Sail Class Work\C# projects\PG2\PG02_LinkedLists\PG02_LinkedLists\obj\Debug\PG02_LinkedLists.dll
+C:\C#Projects\Full Sail Class Work\C# projects\PG2\PG02_LinkedLists\PG02_LinkedLists\obj\Debug\PG02_LinkedLists.pdb
+C:\C#Projects\Full Sail Class Work\C# projects\PG2\PG02_LinkedLists\PG02_LinkedLists\obj\Debug\PG02_LinkedLists.csproj.AssemblyReference.cache
